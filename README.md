@@ -1,5 +1,7 @@
 # rate-limiter
 
+[![tests](https://github.com/kasevvlad/rate-limiter/actions/workflows/tests.yml/badge.svg)](https://github.com/kasevvlad/rate-limiter/actions/workflows/tests.yml)
+
 Rate limiting for Go HTTP services. A learning project where I implemented two classic algorithms myself instead of taking a library: to understand how they work and where each one breaks.
 
 - **Token bucket** in memory: fast, smooth, for a single instance
